@@ -1,2 +1,2 @@
 # camera
-Raspberry Camera
+Raspberry Pi Camera
